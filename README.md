@@ -34,8 +34,7 @@ Estructura final de los datos procesados.*
 * `g5_scrapping.ipynb`: Notebook de Jupyter con la lógica de extracción (Scrapping), transformación (ETL) y carga de datos.
 * `historial_hockey_master.csv`: Archivo de salida con los datos limpios listo para análisis en Excel o Power BI.
 * `historial_hockey_master.db`: Base de datos SQLite que contiene la tabla con todo el histórico extraído.
-* 
-* Carpeta que contiene los recursos visuales para la documentación.
+* Se agrega recursos visuales para la documentación.
 
 ## 🛠️ Tecnologías Utilizadas
 
