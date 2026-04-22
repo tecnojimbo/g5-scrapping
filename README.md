@@ -52,7 +52,7 @@ Para que el proyecto funcione correctamente, aseg√∫rate de que las capturas est√
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [https://github.com/tecnojimbo/G5-StoreTecnoJimbo-FastApi.git](https://github.com/tecnojimbo/G5-StoreTecnoJimbo-FastApi.git)
+    git clone [https://github.com/tecnojimbo/g5-scrapping.git](https://github.com/tecnojimbo/g5-scrapping.git)
     ```
 2.  **Instalar las dependencias necesarias:**
     ```bash
