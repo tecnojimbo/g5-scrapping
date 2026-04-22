@@ -1,9 +1,6 @@
 # g5-scrapping
 Practica 2 Tratamiento de datos
 
-# g5-scrapping
-Practica 2 Tratamiento de datos
-
 # Web Scrapping: Historial de Equipos de Hockey 🏒
 
 Este proyecto automatiza la extracción de datos históricos de equipos de hockey desde la web. El proceso incluye la navegación por múltiples páginas, la limpieza de datos con **Pandas** y el almacenamiento de la información tanto en formato plano (**CSV**) como en una base de datos relacional (**SQLite**).
@@ -24,14 +21,13 @@ Para que el proyecto funcione correctamente, asegúrate de que las capturas est�
 
 ![Tabla ](img4.png)
 
-![Evidencia dela tabla sqlite ](img6.png)
+![Evidencia de la tabla sqlite ](img6.png)
+ 
 
 
+Proceso de scrapping y generación de DataFrames en el entorno de desarrollo.*
 
-*Figura 1: Proceso de scrapping y generación de DataFrames en el entorno de desarrollo.*
-
-![Visualización de Datos](imagenes/Capt.%202.png)
-*Figura 2: Estructura final de los datos procesados.*
+Estructura final de los datos procesados.*
 
 ## 📂 Estructura de Archivos
 
