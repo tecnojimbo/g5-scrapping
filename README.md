@@ -66,7 +66,7 @@ Estructura final de los datos procesados.*
 ---
 Proyecto desarrollado para la gestión y tratamiento de datos técnicos.
 
-# Preguntas de Retroalimentación - G5
+# Preguntas de Retroalimentación -  G5
 
 # 2.	¿Cómo podría un atacante manipular el contenido de la página web origen para contaminar el dataset generado, y qué consecuencias tendría esto al utilizar esos datos en herramientas como Excel o Power BI?
 
@@ -83,6 +83,7 @@ En Power BI, la presencia de datos inconsistentes o tipos incorrectos puede gene
 La introducción de valores extremos o manipulados puede distorsionar indicadores clave, llevando a conclusiones incorrectas y decisiones basadas en información no confiable. 
 Para mitigar estos riesgos, es fundamental implementar procesos de validación y sanitización de datos antes de su almacenamiento o análisis. Esto incluye limpiar caracteres sospechosos, validar tipos de datos y asegurar que la información provenga de fuentes confiables.
 Si no se controla la integridad de los datos desde el origen, todo el proceso de análisis puede verse comprometido, afectando tanto la seguridad como la calidad de la información utilizada para la toma de decisiones.
+
 
 
 
